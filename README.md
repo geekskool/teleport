@@ -1,6 +1,6 @@
 # Teleport
 
-## A Telnet, FTP and SMTP server built on Python
+## A Command line Telnet client with opitons for HTTP, FTP and SMTP built in Python
 
 ### Run
 
