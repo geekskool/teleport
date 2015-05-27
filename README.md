@@ -1,6 +1,6 @@
 # Teleport
 
-## A Command line Telnet client with opitons for HTTP, FTP and SMTP built in Python
+## A Command line Telnet client with options for HTTP, FTP and SMTP built in Python
 
 ### Run
 
